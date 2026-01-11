@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "slot": 1,
+  "mod_metadata": {
+    "title": "Chrono Trigger Music Pack",
+    "author": "Skylect",
+    "description": "A Chrono Trigger Music Pack using original audio!"
+  },
+  "game_metadata": {
+    "name": "Chrono Trigger",
+    "description": "A Chrono Trigger Music Pack using original audio!"
+  },
+  "language_names": {
+    "en": "Chrono Trigger",
+    "it": "Chrono Trigger",
+    "gr": "Chrono Trigger",
+    "fr": "Chrono Trigger",
+    "sp": "Chrono Trigger"
+  },
+  "language_descriptions": {
+    "en": "A Chrono Trigger Music Pack using original audio!",
+    "it": "A Chrono Trigger Music Pack using original audio!",
+    "gr": "A Chrono Trigger Music Pack using original audio!",
+    "fr": "A Chrono Trigger Music Pack using original audio!",
+    "sp": "A Chrono Trigger Music Pack using original audio!"
+  },
+  "tracks": [
+    {
+      "vanilla_filename": "music118.win32.scd",
+      "source_basename": "BGM_02.scd",
+      "source_path": "C:\\Users\\nickm\\Downloads\\Chrono Trigger Songs\\BGM_02.scd"
+    },
+    {
+      "vanilla_filename": "music151.win32.scd",
+      "source_basename": "Boss1.scd",
+      "source_path": "C:\\Users\\nickm\\Downloads\\Chrono Trigger Songs\\Boss1.scd"
+    },
+    {
+      "vanilla_filename": "music119.win32.scd",
+      "source_basename": "112 Battle 1.scd",
+      "source_path": "C:\\Users\\nickm\\Downloads\\112 Battle 1.scd"
+    }
+  ]
+}
